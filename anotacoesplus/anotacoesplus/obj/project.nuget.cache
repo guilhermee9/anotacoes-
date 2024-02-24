@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cTDs/joLf5Ge4R8ATSjBU+VyL2VwhXZ56PwzfCkALzBXJHJHT+Rl4OlG3/S8M8auUD4AjtH3/mMefd6jJ+54aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\Documents\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
