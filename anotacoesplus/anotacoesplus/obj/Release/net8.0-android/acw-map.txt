@@ -1,0 +1,9 @@
+anotacoesplus.MainActivity, anotacoesplus;crc6419490110754ef000.MainActivity
+anotacoesplus.MainActivity;crc6419490110754ef000.MainActivity
+anotacoesplus.MainActivity;crc6419490110754ef000.MainActivity
+anotacoesplus.Activities.Activity1, anotacoesplus;crc64664e22fff8d6e907.Activity1
+anotacoesplus.Activities.Activity1;crc64664e22fff8d6e907.Activity1
+anotacoesplus.activities.Activity1;crc64664e22fff8d6e907.Activity1
+anotacoesplus.Activities.LoginActivity, anotacoesplus;crc64664e22fff8d6e907.LoginActivity
+anotacoesplus.Activities.LoginActivity;crc64664e22fff8d6e907.LoginActivity
+anotacoesplus.activities.LoginActivity;crc64664e22fff8d6e907.LoginActivity

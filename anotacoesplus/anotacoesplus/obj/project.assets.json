@@ -101,19 +101,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\Aluno\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
       "projectName": "anotacoesplus",
-      "projectPath": "C:\\Users\\Aluno\\Documents\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Documents\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

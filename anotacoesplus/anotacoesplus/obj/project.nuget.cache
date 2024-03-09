@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cTDs/joLf5Ge4R8ATSjBU+VyL2VwhXZ56PwzfCkALzBXJHJHT+Rl4OlG3/S8M8auUD4AjtH3/mMefd6jJ+54aA==",
+  "dgSpecHash": "VnyfwjIwbL5uwKQEmbhScnVmKn4aqYhmMGlUdOyN/3mFppdoM8WyC1th/xID2UO13LtI2J72ubIxr957oghJLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Documents\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
   ],
