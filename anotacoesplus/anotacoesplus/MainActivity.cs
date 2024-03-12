@@ -1,22 +1,26 @@
+using System;
+using Android.App;
+using Android.Widget;
+using Android.OS;
 using Android.Content;
 using anotacoesplus.Activities;
+
 
 namespace anotacoesplus
 {
     [Activity(Label = "@string/app_name", MainLauncher = true)]
     public class MainActivity : Activity
     {
-        protected override void OnCreate(Bundle? savedInstanceState)
+        protected override void OnCreate(Bundle bundle)
         {
-            base.OnCreate(savedInstanceState);
+            base.OnCreate(bundle);
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
 
-           // SetAmbientEnabled();
+            //SetAmbientEnabled();
 
-            Button loginButton = FindViewById<Button>(Resource.Id.buttonLogin);
-
+            Button loginButton = FindViewById<Button>(Resource.Id.loginButton);
             loginButton.Click += LoginButton_Click;
         }
         private void LoginButton_Click(object sender, EventArgs e)

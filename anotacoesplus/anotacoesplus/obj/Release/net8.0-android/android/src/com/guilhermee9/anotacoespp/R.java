@@ -12,11 +12,12 @@ public final class R {
     public static final int ic_launcher_background=0x7f010000;
   }
   public static final class id {
-    public static final int buttonLogin=0x7f020000;
-    public static final int editSenha=0x7f020001;
-    public static final int editText1=0x7f020002;
-    public static final int textSenha=0x7f020003;
-    public static final int textView1=0x7f020004;
+    public static final int emailEditText=0x7f020000;
+    public static final int forgotPasswordTextView=0x7f020001;
+    public static final int loginButton=0x7f020002;
+    public static final int nomeapp=0x7f020003;
+    public static final int passwordEditText=0x7f020004;
+    public static final int signupTextView=0x7f020005;
   }
   public static final class layout {
     public static final int activity_login=0x7f030000;
