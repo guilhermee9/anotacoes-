@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\anotacoesplusplus\\anotacoesplus\\",
+  "WorkspaceRootPath": "D:\\anotacoesplus\\anotacoesplus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FED9D0E2-3F27-4A88-B55B-11598662A3FC}|anotacoesplus\\anotacoesplus.csproj|d:\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FED9D0E2-3F27-4A88-B55B-11598662A3FC}|anotacoesplus\\anotacoesplus.csproj|solutionrelative:anotacoesplus\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{FED9D0E2-3F27-4A88-B55B-11598662A3FC}|anotacoesplus\\anotacoesplus.csproj|d:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED9D0E2-3F27-4A88-B55B-11598662A3FC}|anotacoesplus\\anotacoesplus.csproj|solutionrelative:anotacoesplus\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED9D0E2-3F27-4A88-B55B-11598662A3FC}|anotacoesplus\\anotacoesplus.csproj|d:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\resources\\layout\\activity_login.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{FED9D0E2-3F27-4A88-B55B-11598662A3FC}|anotacoesplus\\anotacoesplus.csproj|solutionrelative:anotacoesplus\\resources\\layout\\activity_login.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED9D0E2-3F27-4A88-B55B-11598662A3FC}|anotacoesplus\\anotacoesplus.csproj|d:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\activities\\loginactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED9D0E2-3F27-4A88-B55B-11598662A3FC}|anotacoesplus\\anotacoesplus.csproj|solutionrelative:anotacoesplus\\activities\\loginactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,8 +21,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 212,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,17 +41,58 @@
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "D:\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "anotacoesplus\\AndroidManifest.xml",
-              "ToolTip": "D:\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\AndroidManifest.xml",
-              "RelativeToolTip": "anotacoesplus\\AndroidManifest.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-03-12T01:44:21.386Z",
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\MainActivity.cs",
+              "RelativeDocumentMoniker": "anotacoesplus\\MainActivity.cs",
+              "ToolTip": "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\MainActivity.cs",
+              "RelativeToolTip": "anotacoesplus\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:49:40.532Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "activity_login.xml",
+              "DocumentMoniker": "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\Resources\\layout\\activity_login.xml",
+              "RelativeDocumentMoniker": "anotacoesplus\\Resources\\layout\\activity_login.xml",
+              "ToolTip": "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\Resources\\layout\\activity_login.xml",
+              "RelativeToolTip": "anotacoesplus\\Resources\\layout\\activity_login.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-12T00:12:18.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginActivity.cs",
+              "DocumentMoniker": "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\Activities\\LoginActivity.cs",
+              "RelativeDocumentMoniker": "anotacoesplus\\Activities\\LoginActivity.cs",
+              "ToolTip": "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\Activities\\LoginActivity.cs",
+              "RelativeToolTip": "anotacoesplus\\Activities\\LoginActivity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:12:14.171Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

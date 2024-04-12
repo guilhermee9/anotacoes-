@@ -14,14 +14,11 @@ namespace anotacoesplus
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-
-            // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
-
-            //SetAmbientEnabled();
 
             Button loginButton = FindViewById<Button>(Resource.Id.loginButton);
             loginButton.Click += LoginButton_Click;
+
         }
         private void LoginButton_Click(object sender, EventArgs e)
         {

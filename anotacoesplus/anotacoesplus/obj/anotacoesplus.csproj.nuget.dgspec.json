@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj": {}
+    "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj": {}
   },
   "projects": {
-    "D:\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj": {
+    "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
+        "projectUniqueName": "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
         "projectName": "anotacoesplus",
-        "projectPath": "D:\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
+        "projectPath": "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\anotacoesplus.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "D:\\anotacoesplusplus\\anotacoesplus\\anotacoesplus\\obj\\",
+        "outputPath": "D:\\anotacoesplus\\anotacoesplus\\anotacoesplus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,11 +50,31 @@
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "dependencies": {
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.2, )",
               "autoReferenced": true
+            },
+            "Xamarin.AndroidX.Core": {
+              "target": "Package",
+              "version": "[1.12.0.4, )"
+            },
+            "Xamarin.AndroidX.Core.SplashScreen": {
+              "target": "Package",
+              "version": "[1.0.1.6, )"
+            },
+            "Xamarin.AndroidX.Legacy.Support.Core.UI": {
+              "target": "Package",
+              "version": "[1.0.0.24, )"
+            },
+            "Xamarin.AndroidX.PercentLayout": {
+              "target": "Package",
+              "version": "[1.0.0.24, )"
             }
           },
           "imports": [
