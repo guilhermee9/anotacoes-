@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("anotacoesplus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+fe1da823e847c75ec4474c9ab605cff8f14ce01d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6ef509f2b3ca64387178c1c6ff9f69d4a8fd9510")]
 [assembly: System.Reflection.AssemblyProductAttribute("anotacoesplus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("anotacoesplus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

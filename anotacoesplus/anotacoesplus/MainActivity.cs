@@ -19,6 +19,9 @@ namespace anotacoesplus
             Button loginButton = FindViewById<Button>(Resource.Id.loginButton);
             loginButton.Click += LoginButton_Click;
 
+            Button cadastrarButton = FindViewById<Button>(Resource.Id.cadastrarButton);
+            cadastrarButton.Click += CadastrarButton_Click;
+
         }
         private void LoginButton_Click(object sender, EventArgs e)
         {
@@ -26,6 +29,14 @@ namespace anotacoesplus
             Intent intent = new Intent(this, typeof(LoginActivity));
 
             // Iniciar a nova Activity
+            StartActivity(intent);
+        }
+        private void CadastrarButton_Click(object sender, EventArgs e)
+        {
+            // Criar uma intenção (Intent) para iniciar a CadastrarActivity
+            Intent intent = new Intent(this, typeof(CadastroActivity));
+
+            // Iniciar a CadastrarActivity
             StartActivity(intent);
         }
     }
